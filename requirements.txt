@@ -1,5 +1,9 @@
+streamlit
 pandas
 numpy
 scikit-learn
 joblib
-streamlit
+Pillow
+pdfplumber
+pytesseract
+networkx
